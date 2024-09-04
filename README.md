@@ -2,4 +2,4 @@
 
 Esse projeto usa a API oficial do Pipefy para receber os dados de um formulário do Elementor PRO no Wordpress.
 
-Link do vídeo explicativo: 
+Link do vídeo explicativo no Youtube: https://youtu.be/CuBNC-2bOKU
